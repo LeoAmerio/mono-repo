@@ -1,0 +1,2 @@
+2024-07-20T22:17:20.591092Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-07-20T22:20:11.011435Z  INFO turborepo_lib::daemon::server: triggering shutdown
